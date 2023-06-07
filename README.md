@@ -52,7 +52,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Link to run elastic beanstalk
 
-http://image-filter-starter-code-duclh-dev2.us-east-1.elasticbeanstalk.com/filterImage?image_url=https://video.udacity-data.com/topher/2021/April/60828d1d_screenshot-2021-04-16-at-2.55.57-pm/screenshot-2021-04-16-at-2.55.57-pm.png
+http://image-filter-starter-code-duclh-dev3.us-east-1.elasticbeanstalk.com/filterImage?image_url=https://video.udacity-data.com/topher/2021/April/60828d1d_screenshot-2021-04-16-at-2.55.57-pm/screenshot-2021-04-16-at-2.55.57-pm.png
 
 ### My repo github
 
